@@ -1,0 +1,7 @@
+---
+version: 1
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+path: figures/pressure-1/config.yml
